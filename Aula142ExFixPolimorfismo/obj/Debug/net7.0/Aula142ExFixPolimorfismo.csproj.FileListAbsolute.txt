@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\bin\Debug\net7.0\Aula142ExFixPolimorfismo.exe
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\bin\Debug\net7.0\Aula142ExFixPolimorfismo.deps.json
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\bin\Debug\net7.0\Aula142ExFixPolimorfismo.runtimeconfig.json
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\bin\Debug\net7.0\Aula142ExFixPolimorfismo.dll
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\bin\Debug\net7.0\Aula142ExFixPolimorfismo.pdb
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\obj\Debug\net7.0\Aula142ExFixPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\obj\Debug\net7.0\Aula142ExFixPolimorfismo.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\obj\Debug\net7.0\Aula142ExFixPolimorfismo.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\obj\Debug\net7.0\Aula142ExFixPolimorfismo.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\obj\Debug\net7.0\Aula142ExFixPolimorfismo.dll
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\obj\Debug\net7.0\refint\Aula142ExFixPolimorfismo.dll
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\obj\Debug\net7.0\Aula142ExFixPolimorfismo.pdb
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\obj\Debug\net7.0\Aula142ExFixPolimorfismo.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Projetos\Aula142ExFixPolimorfismo\Aula142ExFixPolimorfismo\obj\Debug\net7.0\ref\Aula142ExFixPolimorfismo.dll
